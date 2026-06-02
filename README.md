@@ -10,7 +10,8 @@ Estudante de Desenvolvimento de Sistemas | SESI-SENAI Cruzeiro/Lorena
 
 <p>
 Sou estudante do curso Técnico em Desenvolvimento de Sistemas pelo SESI-SENAI.
-Tenho interesse em tecnologia, programação e engenharia de software, buscando evolução constante por meio de estudos e projetos práticos.
+Tenho interesse em tecnologia, programação e engenharia de software, buscando evolução constante por meio de estudos e projetos práticos. Meu objetivo é construir uma carreira sólida na área de tecnologia, desenvolvendo soluções eficientes e evoluindo constantemente como profissional.
+
 </p>
 
 <hr>
@@ -46,14 +47,6 @@ Tenho interesse em tecnologia, programação e engenharia de software, buscando 
   <li>Organização</li>
   <li>Comprometimento</li>
 </ul>
-
-<hr>
-
-<h2>🎯 Objetivo</h2>
-
-<p>
-Construir uma carreira sólida na área de tecnologia, desenvolvendo soluções eficientes e evoluindo constantemente como profissional.
-</p>
 
 <hr>
 
