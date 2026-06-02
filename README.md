@@ -61,8 +61,7 @@ Construir uma carreira sólida na área de tecnologia, desenvolvendo soluções 
 <h2>📫 Contato</h2>
 
 <ul>
-  <li>E-mail: [SEU_EMAIL]</li>
-  <li>LinkedIn: [SEU_LINKEDIN]</li>
+  <li>E-mail: toledoisabela.senai@gmail.com</li>
 </ul>
 
 <hr>
