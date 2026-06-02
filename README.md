@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Perfil GitHub - [SEU NOME]</title>
-
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -132,6 +125,3 @@
   <h2>Contato</h2>
   <p>E-mail: toledoisabela.senai@gmail.com </p>
 </section>
-
-</body>
-</html>
