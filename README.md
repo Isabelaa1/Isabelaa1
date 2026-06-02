@@ -45,7 +45,6 @@ Tenho interesse em tecnologia, programação e engenharia de software, buscando 
   <li>Gestão de tempo</li>
   <li>Organização</li>
   <li>Comprometimento</li>
-  <li>Aprendizado contínuo</li>
 </ul>
 
 <hr>
@@ -67,5 +66,4 @@ Construir uma carreira sólida na área de tecnologia, desenvolvendo soluções 
 <hr>
 
 <p align="center">
-<i>"A tecnologia transforma conhecimento em oportunidades."</i>
 </p>
